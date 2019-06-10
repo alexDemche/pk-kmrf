@@ -14,7 +14,7 @@ body {
 .header-slogan{
   width: 100%;
   height: calc(100vh - 76px);
-  background: linear-gradient(rgba(0,0,0, 0.9),rgba(0,0,0, 0.3)), url(../img/bg_1.png) center/cover no-repeat fixed;
+  background: linear-gradient(rgba(0,0,0, 0.9),rgba(0,0,0, 0.3)), url(../img/bg_2.png) center/cover no-repeat fixed;
   /* filter: blur(3px); */
 
 }
